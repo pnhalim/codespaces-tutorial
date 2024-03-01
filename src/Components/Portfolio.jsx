@@ -31,28 +31,15 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "NASA SUITS Challenge",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I led a 60-member development team selected by NASA to develop 2 full augmented reality interfaces for astronauts. As both the project manager and AR development lead, I simultaneously oversaw the development and integration of features across 5 functional teams whilst onboarding and assisting all AR developers. I also created foundational software for the AR team, such as a singleton interface for the backend, a publisher-subscriber event system, and a system state machine.",
+    url: "https://pnhalim.github.io/pages/projects/nasa-suits-challenge",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "etc",
+    description: "etc",
+    url: "etc",
   },
 ];
 
